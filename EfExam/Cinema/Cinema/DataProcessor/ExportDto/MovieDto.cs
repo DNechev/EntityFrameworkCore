@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Cinema.DataProcessor.ExportDto
+{
+    public class MovieDto
+    {
+        public string MovieName { get; set; }
+
+        public string Rating { get; set; }
+
+        public string TotalIncomes { get; set; }
+
+        public List<CustomerDto> Customers { get; set; }
+    }
+}

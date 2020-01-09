@@ -1,0 +1,11 @@
+C:\Users\dido9\source\repos\CodeFirstEx\SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.deps.json
+C:\Users\dido9\source\repos\CodeFirstEx\SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.runtimeconfig.json
+C:\Users\dido9\source\repos\CodeFirstEx\SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.runtimeconfig.dev.json
+C:\Users\dido9\source\repos\CodeFirstEx\SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.dll
+C:\Users\dido9\source\repos\CodeFirstEx\SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.pdb
+C:\Users\dido9\source\repos\CodeFirstEx\SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.csproj.CoreCompileInputs.cache
+C:\Users\dido9\source\repos\CodeFirstEx\SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.AssemblyInfoInputs.cache
+C:\Users\dido9\source\repos\CodeFirstEx\SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.AssemblyInfo.cs
+C:\Users\dido9\source\repos\CodeFirstEx\SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.dll
+C:\Users\dido9\source\repos\CodeFirstEx\SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.pdb
+C:\Users\dido9\source\repos\CodeFirstEx\SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.csprojAssemblyReference.cache

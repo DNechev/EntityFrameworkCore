@@ -1,0 +1,11 @@
+C:\Users\dido9\source\repos\Solution1\adoExercice\bin\Debug\netcoreapp2.1\adoExercice.deps.json
+C:\Users\dido9\source\repos\Solution1\adoExercice\bin\Debug\netcoreapp2.1\adoExercice.runtimeconfig.json
+C:\Users\dido9\source\repos\Solution1\adoExercice\bin\Debug\netcoreapp2.1\adoExercice.runtimeconfig.dev.json
+C:\Users\dido9\source\repos\Solution1\adoExercice\bin\Debug\netcoreapp2.1\adoExercice.dll
+C:\Users\dido9\source\repos\Solution1\adoExercice\obj\Debug\netcoreapp2.1\adoExercice.csprojAssemblyReference.cache
+C:\Users\dido9\source\repos\Solution1\adoExercice\obj\Debug\netcoreapp2.1\adoExercice.csproj.CoreCompileInputs.cache
+C:\Users\dido9\source\repos\Solution1\adoExercice\obj\Debug\netcoreapp2.1\adoExercice.AssemblyInfoInputs.cache
+C:\Users\dido9\source\repos\Solution1\adoExercice\obj\Debug\netcoreapp2.1\adoExercice.AssemblyInfo.cs
+C:\Users\dido9\source\repos\Solution1\adoExercice\bin\Debug\netcoreapp2.1\adoExercice.pdb
+C:\Users\dido9\source\repos\Solution1\adoExercice\obj\Debug\netcoreapp2.1\adoExercice.dll
+C:\Users\dido9\source\repos\Solution1\adoExercice\obj\Debug\netcoreapp2.1\adoExercice.pdb

@@ -1,0 +1,11 @@
+C:\Users\dido9\Desktop\CurrentLecture\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.deps.json
+C:\Users\dido9\Desktop\CurrentLecture\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.runtimeconfig.json
+C:\Users\dido9\Desktop\CurrentLecture\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.runtimeconfig.dev.json
+C:\Users\dido9\Desktop\CurrentLecture\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.dll
+C:\Users\dido9\Desktop\CurrentLecture\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.pdb
+C:\Users\dido9\Desktop\CurrentLecture\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.csprojAssemblyReference.cache
+C:\Users\dido9\Desktop\CurrentLecture\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.csproj.CoreCompileInputs.cache
+C:\Users\dido9\Desktop\CurrentLecture\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.AssemblyInfoInputs.cache
+C:\Users\dido9\Desktop\CurrentLecture\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.AssemblyInfo.cs
+C:\Users\dido9\Desktop\CurrentLecture\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.dll
+C:\Users\dido9\Desktop\CurrentLecture\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.pdb

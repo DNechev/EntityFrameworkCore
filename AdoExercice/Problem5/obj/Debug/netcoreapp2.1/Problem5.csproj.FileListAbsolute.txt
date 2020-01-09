@@ -1,0 +1,14 @@
+C:\Users\dido9\source\repos\Solution1\Problem5\bin\Debug\netcoreapp2.1\Problem5.deps.json
+C:\Users\dido9\source\repos\Solution1\Problem5\bin\Debug\netcoreapp2.1\Problem5.runtimeconfig.json
+C:\Users\dido9\source\repos\Solution1\Problem5\bin\Debug\netcoreapp2.1\Problem5.runtimeconfig.dev.json
+C:\Users\dido9\source\repos\Solution1\Problem5\bin\Debug\netcoreapp2.1\Problem5.dll
+C:\Users\dido9\source\repos\Solution1\Problem5\bin\Debug\netcoreapp2.1\Problem5.pdb
+C:\Users\dido9\source\repos\Solution1\Problem5\bin\Debug\netcoreapp2.1\adoExercice.dll
+C:\Users\dido9\source\repos\Solution1\Problem5\bin\Debug\netcoreapp2.1\adoExercice.pdb
+C:\Users\dido9\source\repos\Solution1\Problem5\obj\Debug\netcoreapp2.1\Problem5.csproj.CoreCompileInputs.cache
+C:\Users\dido9\source\repos\Solution1\Problem5\obj\Debug\netcoreapp2.1\Problem5.AssemblyInfoInputs.cache
+C:\Users\dido9\source\repos\Solution1\Problem5\obj\Debug\netcoreapp2.1\Problem5.AssemblyInfo.cs
+C:\Users\dido9\source\repos\Solution1\Problem5\obj\Debug\netcoreapp2.1\Problem5.csproj.CopyComplete
+C:\Users\dido9\source\repos\Solution1\Problem5\obj\Debug\netcoreapp2.1\Problem5.dll
+C:\Users\dido9\source\repos\Solution1\Problem5\obj\Debug\netcoreapp2.1\Problem5.pdb
+C:\Users\dido9\source\repos\Solution1\Problem5\obj\Debug\netcoreapp2.1\Problem5.csprojAssemblyReference.cache

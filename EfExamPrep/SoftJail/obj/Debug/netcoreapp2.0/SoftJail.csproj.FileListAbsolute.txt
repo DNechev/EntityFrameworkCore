@@ -1,0 +1,11 @@
+C:\Users\dido9\Desktop\CurrentLecture\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.deps.json
+C:\Users\dido9\Desktop\CurrentLecture\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.runtimeconfig.json
+C:\Users\dido9\Desktop\CurrentLecture\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.runtimeconfig.dev.json
+C:\Users\dido9\Desktop\CurrentLecture\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.dll
+C:\Users\dido9\Desktop\CurrentLecture\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.pdb
+C:\Users\dido9\Desktop\CurrentLecture\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.csprojAssemblyReference.cache
+C:\Users\dido9\Desktop\CurrentLecture\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.csproj.CoreCompileInputs.cache
+C:\Users\dido9\Desktop\CurrentLecture\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.AssemblyInfoInputs.cache
+C:\Users\dido9\Desktop\CurrentLecture\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.AssemblyInfo.cs
+C:\Users\dido9\Desktop\CurrentLecture\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.dll
+C:\Users\dido9\Desktop\CurrentLecture\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.pdb

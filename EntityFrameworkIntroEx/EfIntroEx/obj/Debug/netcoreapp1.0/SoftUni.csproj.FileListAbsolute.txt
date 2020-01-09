@@ -1,0 +1,6 @@
+C:\Users\dido9\Desktop\Code\GitHub\DB Advanced\EntityFrameworkIntroEx\EfIntroEx\bin\Debug\netcoreapp1.0\SoftUni.deps.json
+C:\Users\dido9\Desktop\Code\GitHub\DB Advanced\EntityFrameworkIntroEx\EfIntroEx\bin\Debug\netcoreapp1.0\SoftUni.runtimeconfig.json
+C:\Users\dido9\Desktop\Code\GitHub\DB Advanced\EntityFrameworkIntroEx\EfIntroEx\bin\Debug\netcoreapp1.0\SoftUni.runtimeconfig.dev.json
+C:\Users\dido9\Desktop\Code\GitHub\DB Advanced\EntityFrameworkIntroEx\EfIntroEx\obj\Debug\netcoreapp1.0\SoftUni.csprojAssemblyReference.cache
+C:\Users\dido9\Desktop\Code\GitHub\DB Advanced\EntityFrameworkIntroEx\EfIntroEx\obj\Debug\netcoreapp1.0\SoftUni.csproj.CoreCompileInputs.cache
+C:\Users\dido9\Desktop\Code\GitHub\DB Advanced\EntityFrameworkIntroEx\EfIntroEx\obj\Debug\netcoreapp1.0\SoftUni.AssemblyInfo.cs
